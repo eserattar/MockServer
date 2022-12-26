@@ -1,0 +1,14 @@
+
+server:
+  port: 9081
+  servlet:
+    context-path: /mock-server-demo-one
+
+spring:
+  application:
+    name: MockServer Demo One - Eser ATTAR
+
+
+#MockServer Demo Config
+mockserver:
+  baseUrl: https://randomuser.me/api

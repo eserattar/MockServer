@@ -1,0 +1,178 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Bob",
+        "last": "Welch"
+      },
+      "location": {
+        "street": {
+          "number": 2681,
+          "name": "E North St"
+        },
+        "city": "Melbourne",
+        "state": "Victoria",
+        "country": "Australia",
+        "postcode": 3900,
+        "coordinates": {
+          "latitude": "-89.4591",
+          "longitude": "-145.9209"
+        },
+        "timezone": {
+          "offset": "+10:00",
+          "description": "Eastern Australia, Guam, Vladivostok"
+        }
+      },
+      "email": "bob.welch@example.com",
+      "login": {
+        "uuid": "ff439daf-d518-499f-af59-a1c47bfee5eb",
+        "username": "yellowgoose638",
+        "password": "toshiba",
+        "salt": "93ugFKJ8",
+        "md5": "8b1d779f513c8a95a76ce68649126a73",
+        "sha1": "17c7792bf25e06209ee99e74c7a74b594c23b037",
+        "sha256": "c3a7b23b96f089c62c5ac34c14913b89bbf11a852d55e87d716a99879c6ebf4a"
+      },
+      "dob": {
+        "date": "1983-08-12T18:37:07.312Z",
+        "age": 39
+      },
+      "registered": {
+        "date": "2004-07-04T20:08:02.861Z",
+        "age": 18
+      },
+      "phone": "02-4799-9397",
+      "cell": "0425-001-899",
+      "id": {
+        "name": "TFN",
+        "value": "374785855"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "William",
+        "last": "Henry"
+      },
+      "location": {
+        "street": {
+          "number": 7175,
+          "name": "E Little York Rd"
+        },
+        "city": "Australian Capital Territory",
+        "state": "Australian Capital Territory",
+        "country": "Australia",
+        "postcode": 4829,
+        "coordinates": {
+          "latitude": "-43.0612",
+          "longitude": "30.3823"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "william.henry@example.com",
+      "login": {
+        "uuid": "002cfe5c-7be8-4e88-a6f6-2b3104cb0a40",
+        "username": "tinybear356",
+        "password": "lemons",
+        "salt": "WSdNrcBv",
+        "md5": "563dfefdf262720e3de51c2462bff2bf",
+        "sha1": "f36d42a76b1f35ba18b3a7c29af5d32d044d02a7",
+        "sha256": "ee0d9cc24e61ff2694f7616512a3e6227cd085f5f12147768af7b8af77cd3655"
+      },
+      "dob": {
+        "date": "1977-04-26T07:20:52.844Z",
+        "age": 45
+      },
+      "registered": {
+        "date": "2004-03-20T22:53:31.619Z",
+        "age": 18
+      },
+      "phone": "05-3012-3827",
+      "cell": "0403-737-993",
+      "id": {
+        "name": "TFN",
+        "value": "830669467"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Albert",
+        "last": "Taylor"
+      },
+      "location": {
+        "street": {
+          "number": 614,
+          "name": "Westheimer Rd"
+        },
+        "city": "Queanbeyan",
+        "state": "Queensland",
+        "country": "Australia",
+        "postcode": 5732,
+        "coordinates": {
+          "latitude": "-8.7179",
+          "longitude": "-56.9640"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "albert.taylor@example.com",
+      "login": {
+        "uuid": "8e049198-6023-46d3-806b-5cee5c50aaf6",
+        "username": "smallpanda371",
+        "password": "0987",
+        "salt": "cc1mNiBi",
+        "md5": "67538faec925f3259124245285a9d8c0",
+        "sha1": "709756e5e0ec51eaf3dccf70ea249acdf6b315c5",
+        "sha256": "86dcc14723924b30749ff1ea63b068d6282e728ba9fdad7864e2c90ba96c4022"
+      },
+      "dob": {
+        "date": "1954-02-12T08:18:13.101Z",
+        "age": 68
+      },
+      "registered": {
+        "date": "2014-12-07T08:43:21.694Z",
+        "age": 8
+      },
+      "phone": "07-8519-5272",
+      "cell": "0446-214-288",
+      "id": {
+        "name": "TFN",
+        "value": "126646278"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/98.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "f57e43030d3246bb",
+    "results": 3,
+    "page": 3,
+    "version": "1.4"
+  }
+}

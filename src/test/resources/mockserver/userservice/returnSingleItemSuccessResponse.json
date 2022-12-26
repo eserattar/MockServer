@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ricardo",
+        "last": "Davidson"
+      },
+      "location": {
+        "street": {
+          "number": 4650,
+          "name": "Hogan St"
+        },
+        "city": "Tamworth",
+        "state": "Australian Capital Territory",
+        "country": "Australia",
+        "postcode": 1284,
+        "coordinates": {
+          "latitude": "-62.0073",
+          "longitude": "108.4935"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "ricardo.davidson@example.com",
+      "login": {
+        "uuid": "3176d070-7a51-4087-91e4-77371aa6a857",
+        "username": "beautifulswan351",
+        "password": "skiing",
+        "salt": "cDOwfbIE",
+        "md5": "d497d8ccbf02400d8649950fc98aace6",
+        "sha1": "9cc93a28954b70499527e0807ba0079b9b886b5b",
+        "sha256": "8e48c4a7ac8ff5a0fa44a6db505aeb526c561baf076283020d500f83789847ce"
+      },
+      "dob": {
+        "date": "1970-11-17T09:35:57.407Z",
+        "age": 52
+      },
+      "registered": {
+        "date": "2012-04-12T04:22:48.684Z",
+        "age": 10
+      },
+      "phone": "04-1664-6534",
+      "cell": "0413-131-780",
+      "id": {
+        "name": "TFN",
+        "value": "804722296"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "2fae2ba5388573da",
+    "results": 1,
+    "page": 3,
+    "version": "1.4"
+  }
+}
